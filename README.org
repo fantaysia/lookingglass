@@ -2,6 +2,8 @@
 A terminal user interface for interacting with
 decentralized paracosms.
 
+[[./assets/lookingglass.png]]
+
 ** Usage
 =lookingglass= may be seeded with a paracosm.
 
