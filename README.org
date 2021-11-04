@@ -1,0 +1,3 @@
+* LookingGlass
+A terminal user interface for interacting with
+decentralized paracosms.
