@@ -1,3 +1,8 @@
 * lookingglass
 A terminal user interface for interacting with
 decentralized paracosms.
+
+** Usage
+=lookingglass= may be seeded with a paracosm.
+
+- https://github.com/fantaysia/paracosm
