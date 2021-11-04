@@ -5,4 +5,5 @@ decentralized paracosms.
 ** Usage
 =lookingglass= may be seeded with a paracosm.
 
-- https://github.com/fantaysia/paracosm
++ See:
+  - https://github.com/fantaysia/paracosm
